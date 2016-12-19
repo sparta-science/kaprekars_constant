@@ -1,9 +1,9 @@
 require 'kaprekar'
 
 RSpec.describe Kaprekar do
-  describe '#largest_digit' do
-    it 'returns the largest digit in 1234' do
-      expect(Kaprekar.new(1234).largest_digit).to eq(4)
+  describe '#steps_to_kaprekar' do
+    it 'returns the number of steps to kaprekar for 1234' do
+      # Should return 3 steps
     end
   end
 end

@@ -1,5 +1,5 @@
 class Kaprekar
-  def largest_digit
+  def steps_to_kaprekar
     # Something in here
   end
 end
