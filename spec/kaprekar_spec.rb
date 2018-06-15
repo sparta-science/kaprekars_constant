@@ -1,9 +1,17 @@
 require 'kaprekar'
 
 RSpec.describe Kaprekar do
-  describe '#steps_to_kaprekar' do
-    it 'returns the number of steps to kaprekar for 1234' do
-      # Should return 3 steps
+  describe 'some test' do
+    it 'does something' do
+      # 6174 -> 0
+    end
+
+    it 'does something' do
+      # 6589 -> 2
+    end
+
+    it 'does something' do
+      # 5455 -> 5
     end
   end
 end
